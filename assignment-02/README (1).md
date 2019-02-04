@@ -5,3 +5,9 @@ I decided to take this class because I wanted to learn a new skill and since I s
 1. I've learned how the internet travels across the ocean.
 2. I've learned there is more to a URL than a random string of letters and numbers
 3. I hope to learn how to make an engaging website that would make someone want to look around and learn more.
+
+
+- A link to any website you visit frequently using its [absolute URL](http://my.umt.edu/students)
+
+- A link to your responses.txt file using its [relative URL](./assignment-02)
+- An image link to your screenshot using its [relative URL](./images/screenshot_assignment_2.png)
