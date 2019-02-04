@@ -1,5 +1,8 @@
 Briefly describe one way how data travels on the internet.
-    Data travels on the 
+    Data travels on the internet through binary code. The server sends a list of 1s and 0s that are decoded and load the web page that was asked to be loaded. 
 What is the relationship between an IP address and the DNS?
+The IP address is the individual address assigned to each computer, the IP address is a string of numbers. The DNS is the name that coresponds with the IP address. DNS is more user friendly than having to remeber a seemingly random string of numbers like an IP Address. 
 What is a cookie?
+A cookie is a bit of data that is attached to post requests. Cookies are what helps your computer remember who you are. 
 List the the three basic parts of a URL.
+protocol, domain, path and file.
