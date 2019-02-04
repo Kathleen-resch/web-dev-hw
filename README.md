@@ -7,4 +7,4 @@ My [Course Notes](./Notes.txt)
 
 - A link to your responses.txt file using its [relative URL](./assignment-02/responses.txt)
 
-- An image link to your screenshot using its [relative URL](./assignment-02/images/screenshot assignment 2)
+- An image link to your screenshot using its [relative URL](./assignment-02/images/screenshot_assignment_2.png)
