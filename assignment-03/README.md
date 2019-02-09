@@ -8,4 +8,4 @@ Browsers work to access the internet and help read the code sent to the computer
 2. What is a markup language? Describe one commonly used in development.
 A markup Language dictates what is seen on the page and deals primarily with the text and the format of the page. One commonly used markup language is HTML. HTML is the most widely used markup language, it can be used to render content and page structure. It also has a standardized element and marking system.
 
-3. Include your screenshot as an image [link](/images/Screenshot.png)
+3. Include your screenshot as an image [link](./images/Screenshot.png)
