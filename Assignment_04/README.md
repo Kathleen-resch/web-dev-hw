@@ -9,4 +9,4 @@ I went to Twitter.com on the Wayback machine. It was not as cleanly organized as
 
 I couldn't download the GIT Module due to my computer being unable to run that type of program. I am doing everything locally on my computer and uploading it myself. I think I am getting the hang of it.
 
-3. Include your screenshot as an image [link](/images/screenshot.png)
+3. Include your screenshot as an image [link](./images/screenshot.png)
