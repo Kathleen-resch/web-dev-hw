@@ -1,5 +1,5 @@
-#Assigment 7: Media
-##Kathleen Resch
+# Assigment 7: Media
+## Kathleen Resch
 1. Briefly describe the difference between divs, classes, ids, and spans.
  
 Divs are the building blocks of the page. They section out information and help keep things organized. Classes group similar elements together using the same name. Elements can have more than one class. Ids provide unique information about each element on the page. Each Id is unique to what is being identified. Spans create organize and style information within divs. Spans are kind of like a div within a div. 
