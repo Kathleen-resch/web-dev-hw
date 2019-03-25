@@ -1,1 +1,22 @@
+body {
+text-align: Center;
+    background-color:#F8FF8C;}
 
+.images {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;}
+#Intro { color:#190AFF; 
+    left: 70px;
+   width:200px;
+   position: absolute;opacity: 0.8;}
+#Paris {background-color:#FF7BF9; 
+color: white; 
+}
+#Britney {background-color: #54A1FF;
+color:white;
+height:275px;}
+/* Britney was ahead of her time */
+#Elle {background-color:#F46B62;
+color:white;}
