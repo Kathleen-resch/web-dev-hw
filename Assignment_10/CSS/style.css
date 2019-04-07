@@ -1,0 +1,48 @@
+/*
+Include a fallback for each font.*/
+
+
+
+body{font-variant: normal; background-color: blue}
+
+#text{background color: white;}
+
+h1 {text-transform: capitalize;
+text-align: center; 
+    color:white;}
+
+h2 {text-transform: capitalize;
+    text-align: center; 
+    color:white;}
+
+#subtitle {font-style: oblique;text-align: center;}
+
+p {vertical-align: text-top; 
+    background-color:white; 
+    font-size: 10pt;  
+    width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+p::first-letter {
+  color: gold; 
+  font-size: 2em;
+  letter-spacing: 1px;
+  font-weight: 500;}
+
+#link{ 
+background-color: yellow;
+height: 50px;
+text-align: center;
+width: 100px;
+ margin: auto;
+font-weight: 48px; 
+vertical-align: center;
+}
+
+#link:hover {
+   color: black;
+   font-style: italic;
+background-color: white;}
+ /*ids=# class=.*/
