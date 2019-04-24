@@ -1,0 +1,47 @@
+/*In your style.css, utilize positioning properties on your elements to create layout.
+
+Utilize 2 complimentary fonts, including a fallback for each font.
+.*/
+
+
+.menu-item{display: inline;
+color: white;
+background-color:#C0D2E9; }
+
+.menu-item:hover{color: white;
+    background-color: #1660C4;}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: #000;
+}
+#dropdown:hover .dropdown-content {
+    display: block;
+}
+body {background-color: #24F3F0;}
+
+.text {background-color: white; 
+    width: 600px;
+  margin: auto;
+  padding: 20px;
+    border: 1px solid black;}
+
+.image {position:absolute;
+  right:100px;}
+
+    h1 {font-family: 'Rouge Script', cursive, monospace;}
+p {font-family: 'Merriweather', serif;}
+
+
+
+    
+    
+    
+        
