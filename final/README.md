@@ -10,4 +10,4 @@ I didn't know anything about Web development when beginning this class and so ev
 
 3. Free Response: Summarize your work cycle for this assignment.
 
-I started by creating my documents. I decided to add all of the elements I wanted to add first from former projects. Then I added the information I wanted to add about myself. I wasn't sure what to make my site about so I amde it a site about myself and my works. 
+I started by creating my documents. I decided to add all of the elements I wanted to add first from former projects. Then I added the information I wanted to add about myself. I wasn't sure what to make my site about so I made it a site about myself and my works.  I made each page individually and I used and edited portions of past assignments I really liked.
