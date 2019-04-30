@@ -1,0 +1,42 @@
+*{font-family: 'Cormorant Infant', 'Georgia', serif;}
+
+h1 {font-family:'Roboto','arial', sans-serif;}
+h2 {font-family: 'Roboto','arial', sans-serif;}
+p {font-family: 'Merriweather', 'Georgia', serif;
+font-size: 12px;}
+body {background-color: #00FFFF;
+  text-align: center;}
+header {position:absolute; padding: 20px;}
+
+#images{margin: 1em 4em;}
+
+.text {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid black;
+}
+
+.menu-item{display: inline;
+color: white;
+background-color:#00FFFF; }
+
+.menu-item:hover{color: white;
+    background-color: #1660C4;}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+    width: 100px
+}
+.dropdown-content a {
+    color: #000;
+}
+#dropdown:hover .dropdown-content {
+    display: block;
+}
